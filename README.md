@@ -1,6 +1,6 @@
 # Shaobor 12123 Card
 
-自定义 Lovelace 卡片，用于在 Home Assistant 中展示交管 12123 的驾驶证、车辆及违章信息。
+自定义 Lovelace 卡片，用于在 Home Assistant 中展示 12123 的驾驶证、车辆及违章信息。
 
 ## 功能
 - 驾驶证：累计积分、证件状态、有效期、清分日期
